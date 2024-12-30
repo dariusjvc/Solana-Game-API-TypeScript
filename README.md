@@ -26,8 +26,8 @@ You need to provide JSON files for the keys of player 1 and player 2:
 1. **Clone the repository**:
 
    ```bash
-   git clone ...
-   cd ...
+   git clone https://github.com/dariusjvc/SolanaGameAPI.git
+   cd SolanaGameAPI
    ```
 
 2. **Install dependencies**:
